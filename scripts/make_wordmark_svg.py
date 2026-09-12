@@ -46,7 +46,7 @@ CELL_H = 15.5
 # very heavy face (Impact) collapses to blobs at this resolution -- the counters
 # get thinner than one grid cell.
 # CÓDIGO CORRIGIDO (para Linux/Ubuntu):
-FONT_PATH = os.environ.get("WORDMARK_FONT", "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf")
+FONT_PATH = os.environ.get("WORDMARK_FONT", "/usr/share/fonts/truetype/yanone-kaffeesatz/YanoneKaffeesatz-Bold.ttf")
 FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0))
 # three letters across the full width leaves ~30 grid columns each, which is what
 # lets the cells be big enough to read as characters rather than as dither.
