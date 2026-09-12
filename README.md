@@ -8,6 +8,12 @@
 <tr>
 <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Felipe Pereira — ASCII portrait" /></td>
 <td valign="top"><img src="./wordmark-rock.svg" width="490" alt="FELIPE — 3D ASCII wordmark" /></td>
+
+</tr>
+<tr>
+  <td colspan="2" align="center" valign="top">
+    <img src="./robot-ascii.svg" width="490" alt="BART — 3D ASCII Robot" />
+  </td>
 </tr>
 </table>
 
