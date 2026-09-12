@@ -53,10 +53,10 @@ FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0))
 TEXT = os.environ.get("WORDMARK_TEXT", "FELIPE")
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
-TRACKING = 0.28        # extra letter-spacing, in em. counter gaps must survive the
+TRACKING = 0.14        # extra letter-spacing, in em. counter gaps must survive the
                        # extrusion offset or the word rasterizes to one solid slab.
 LINE_GAP = 1.20        # baseline-to-baseline, in cap heights (multi-line TEXT only)
-DEPTH_FRAC = 0.18      # extrusion depth as a fraction of glyph height
+DEPTH_FRAC = 0.34      # extrusion depth as a fraction of glyph height
 TILT_DEG = float(os.environ.get("WORDMARK_TILT", 4.0))
                        # fixed X tilt so the top face stays visible. tilt slants the
                        # whole baseline in screen space, so the bottom row frays into
@@ -70,14 +70,14 @@ FOCAL = 4.15
 FIT = 0.92             # fraction of the grid the widest pose may use
 
 # sparse/dim -> dense/bright. index 0 is blank.
-RAMP = " .:-=+*#%@"
+RAMP = " .`:-=+*csS#%@"
 # keyed close to the view axis, lifted a little: letter faces stay solid and dense,
 # the extruded top/side walls fall away to a dimmer char. that gap is the 3D read.
 # a side-heavy light instead makes the walls out-shine the faces and the word
 # dissolves into edge highlights.
 LIGHT = np.array([-0.15, -0.45, -1.00])
 LIGHT = LIGHT / np.linalg.norm(LIGHT)
-AMBIENT = 0.12
+AMBIENT = 0.22
 FOG = 0.34             # how much the far end of the word dims, 0..1
 FOG_SPAN = 0.55        # world-units of depth the fog ramp covers
 
