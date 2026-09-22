@@ -26,7 +26,7 @@ MSc Student in Mechanical Engineering (Dynamics & Mechatronics) at EESC-USP. Con
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
 </p>
 
-### Estatísticas
+### Statistics
 
 | ![Felipe Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipePF22&mode-daily&theme=onedark&title_color=61afef&icon_color=56b6c2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipePF22&hide=Html&theme=onedark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipePF22&theme=onedark) |
 | :-: | :-: | :-: |
