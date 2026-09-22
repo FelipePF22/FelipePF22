@@ -2,17 +2,19 @@
 
 #
 <div align="center">
-
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Felipe Pereira — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark-rock.svg" width="490" alt="FELIPE — 3D ASCII wordmark" /></td>
-
-</tr>
-</table>
-
-<br>
-<br>
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="./avi-ascii.svg" width="370" alt="Felipe Pereira — ASCII portrait" />
+      </td>
+      <td valign="top">
+        <img src="./wordmark-rock.svg" width="490" alt="FELIPE — 3D ASCII wordmark" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <br>
+</div>
 
 #
 ### About me
