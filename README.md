@@ -77,7 +77,7 @@ MSc Student in Mechanical Engineering (Dynamics & Mechatronics) at EESC-USP. Con
 | :-: | :-: |
 
 #
-
+### Activity Feed
 <br clear="both">
 
 <picture>
