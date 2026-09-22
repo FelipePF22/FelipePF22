@@ -16,7 +16,7 @@
 
 #
 ### About me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=20&duration=3500&pause=1000&color=270ee8&background=FFFFFF00&width=650&height=30&lines=Hi+there!+My+name's+Felipe.;I'm++a+control+and+automation+engineer.;Applied+Robotics+Developer;Master%E2%80%99s+Researcher+SLAM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=20&duration=3500&pause=1000&color=270ee8&background=FFFFFF00&width=650&height=30&lines=Hi+there!+My+name's+Felipe.;I'm++a+Control+and+Automation+Engineer.;Applied+Robotics+Developer;Master%E2%80%99s+Researcher+SLAM)](https://git.io/typing-svg)
 
 <p align="left">
 MSc Student in Mechanical Engineering (Dynamics & Mechatronics) at EESC-USP. Control & Automation Engineer focused on Mobile Robotics, Multi-Sensor Fusion SLAM, and Autonomous Systems.
