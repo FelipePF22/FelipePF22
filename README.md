@@ -40,6 +40,12 @@ MSc Student in Mechanical Engineering (Dynamics & Mechatronics) at EESC-USP. Con
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/osrf/gazebo_design/master/gazebo_logo_and_name/gazebo_logo.svg" height="50" alt="gazebo logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CloudCompare-1f4e78?style=for-the-badge&logoColor=white" height="50" alt="cloudcompare logo" />  
 </p>
 
 #
