@@ -87,6 +87,9 @@ MSc Student in Mechanical Engineering (Dynamics & Mechatronics) at EESC-USP. Con
 </picture>
 
 #
+<p align="center">
+  <img src="./nome-do-seu-arquivo.gif" width="600" alt="Descrição do GIF" />
+</p>
 
 <p align="center">
   <i>"Always Learning"</i>  
