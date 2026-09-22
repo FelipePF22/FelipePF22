@@ -1,9 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=270ee8&size=35&center=true&vCenter=true&width=1000&lines=++Welcome,+To+My+Profile!++)](https://git.io/typing-svg)
 
+#
+<div align="center">
 
-<!-- <p align="center">
-  <img src=".github/workflows/duque github (1280 x 320 px).gif" />
-</p> -->
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Felipe Pereira — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark-rock.svg" width="490" alt="FELIPE — 3D ASCII wordmark" /></td>
+
+</tr>
+</table>
+
+<br>
+<br>
 
 #
 ### About me
