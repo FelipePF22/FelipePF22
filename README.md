@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=270ee8&size=35&center=true&vCenter=true&width=1000&lines=++Welcome,+To+My+Profile!++)](https://git.io/typing-svg)
 
 #
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td valign="top">
@@ -12,7 +12,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 #
 ### About me
